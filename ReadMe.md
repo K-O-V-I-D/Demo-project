@@ -5,7 +5,6 @@
 ## Motivation
 
 ## Tech Stack Used
-
 ### PreRequisites
 
 ### Installation Instructions
