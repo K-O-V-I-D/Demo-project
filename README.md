@@ -1,3 +1,2 @@
 # Demo-project
-
 Launching soon..
