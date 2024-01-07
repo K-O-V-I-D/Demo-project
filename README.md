@@ -10,6 +10,7 @@
 ### Installation Instructions
 
 ## Features
+
 - Marketing Public Pages
   - Basic Design from the Theme
 - Authenticated Dashboard Journey
